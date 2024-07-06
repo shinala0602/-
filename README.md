@@ -11,6 +11,8 @@
 
 <img width="913" alt="무제" src="https://github.com/shinala0602/Analysis-of-the-Location-of-the-Urban-Revitalization-in-South-Jeolla-Province/assets/59050396/9255510f-7985-42e9-9150-e8a01a91817a">
 
+<img width="906" alt="무제" src="https://github.com/shinala0602/Analysis-of-the-Location-of-the-Urban-Revitalization-in-South-Jeolla-Province/assets/59050396/4f496f96-5f45-4e33-8d1d-e9e7fa28ad7b">
+
 ### 배우고 느낀점  
 * 사회 문제를 해결하기 위해 데이터 중심으로 의사결정하는 과정을 경험하며 데이터가 객관적 지표로 작용되는 것을 느꼈습니다.
 * 나에게 꼭 맞는 데이터는 잘 없기 때문에 구할 수 있는 데이터들을 적절히 사용하는 방법을 배웠습니다.
