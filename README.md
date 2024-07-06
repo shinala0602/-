@@ -1,7 +1,7 @@
 # Analysis-of-the-Location-of-the-Urban-Revitalization-in-South-Jeolla-Province
 ## 전라남도 인구소멸도시 활성화를 위한 워케이션 입지 분석
 * 2023년 제11회 문화데이터 활용 경진대회에 제출한 기획 및 분석 보고서입니다.
-* [분석 코드] (https://drive.google.com/file/d/1FLNbXnO_y69HzHWMoBnxvsB3cyVWnvhu/view?usp=sharing)
+* [분석 코드](https://drive.google.com/file/d/1FLNbXnO_y69HzHWMoBnxvsB3cyVWnvhu/view?usp=sharing)
 * [분석 보고서](https://drive.google.com/file/d/1v-dPrnEdy-rkep-oLFp_IHk2ew9hN2o0/view?usp=sharing)
 
 ### 분석 방법
