@@ -2,7 +2,6 @@
 ## 전라남도 인구소멸도시 활성화를 위한 워케이션 입지 분석
 * 2023년 제11회 문화데이터 활용 경진대회에 제출한 기획 및 분석 보고서입니다.
 * [분석 코드](https://drive.google.com/file/d/1FLNbXnO_y69HzHWMoBnxvsB3cyVWnvhu/view?usp=sharing)
-* [분석 보고서](https://drive.google.com/file/d/1sTLeFYIoiBp8xYlHrCzwyFG6LOP1Dl_Z/view?usp=sharing)
 
 ### 분석 방법
 1. 워케이션 참가자들에게 추천하는 프로그램을 만들기 위하여 K-Modes 알고리즘을 군집화한 후 추천 유형을 기획하였습니다.
